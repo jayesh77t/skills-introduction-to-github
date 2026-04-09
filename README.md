@@ -1,10 +1,10 @@
 # Introduction to GitHub
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+<img src="https://octodex.github.com/images/original.png" align="right" height="200px" />
 
-Hey jayesh77t!
+👋 Hey there @jayesh77t! Welcome to your Skills exercise!
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+Mona here. I'm done preparing your exercise. Good luck and have fun! 💚
 
 Remember, it's self-paced so feel free to take a break! ☕️
 
@@ -13,4 +13,3 @@ Remember, it's self-paced so feel free to take a break! ☕️
 ---
 
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
